@@ -1,2 +1,2 @@
 # Git-Html-css
-file i made for the learning purposes
+file is made for the learning purposes
